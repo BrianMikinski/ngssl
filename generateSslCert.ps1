@@ -6,6 +6,6 @@ openssl req `
     -keyout ./ssl/server.key `
     -new `
     -out ./ssl/server.crt `
-    -config ./certdef.cnf `
+    -config ./ssl/certdef.cnf `
     -sha256 `
     -days 365
