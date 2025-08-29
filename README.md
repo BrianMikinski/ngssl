@@ -1,6 +1,6 @@
 # Ngssl
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 19.0.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 19.0.4 and updated to version 20.2.1.
 
 ## Development server
 
